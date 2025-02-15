@@ -1,3 +1,2 @@
 # Coffee-website
-
-Coffee website using html and css
+##A responsive coffee shop website built with HTML & CSS ☕🚀
